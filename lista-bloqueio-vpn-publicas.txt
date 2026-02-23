@@ -43,7 +43,7 @@
 ||opera.com^$domain=opera.com
 
 ! 1.1.1.1 App
-||one.one.one.one^
+!one.one.one.one^
 
 ! Outline VPN
 ||getoutline.org^
@@ -71,4 +71,5 @@
 
 ! Hola VPN
 ||hola.org^
+
 
