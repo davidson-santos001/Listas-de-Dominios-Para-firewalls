@@ -1,5 +1,0 @@
-@@||cloudflare.com^
-@@||cloudflare-dns.com^
-@@||cloudflare.net^
-@@||cloudflareaccess.com^
-@@||cloudflareworkers.com^
