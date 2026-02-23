@@ -1,0 +1,4 @@
+@@||cloudflare-captcha.net^
+@@||cloudflare.com^
+@@||cloudflare.net^
+@@||valeindigenas.doutoragora.com.br^
