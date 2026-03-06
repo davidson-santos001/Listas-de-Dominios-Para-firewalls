@@ -19,6 +19,7 @@
 ||graph.instagram.com^
 ||i.instagram.com^
 ||im.instagram.com^
+||test-gateway.instagram.com^
 
 ! Twitter / X
 ||twitter.com^
@@ -104,4 +105,5 @@
 
 ! onlyfans
 ||onlyfans.com^
+
 
