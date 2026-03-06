@@ -8,6 +8,7 @@
 @@||api.fast.com^
 @@||fastly.net^
 @@||sistemas.local/doutoragora/^
+@@||cic.doutoragora.com.br/^
 
 
 
