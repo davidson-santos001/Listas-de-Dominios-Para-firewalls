@@ -9,7 +9,8 @@
 @@||fastly.net^
 @@||sistemas.local/doutoragora^
 @@||cic.doutoragora.com.br^
-@@||cemigsaude.totvscloud.com.br^
+@@||cemigsaude.org.br^
+
 
 
 
