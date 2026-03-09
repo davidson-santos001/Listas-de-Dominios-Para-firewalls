@@ -9,7 +9,12 @@
 @@||fastly.net^
 @@||sistemas.local/doutoragora^
 @@||cic.doutoragora.com.br^
+@@||cemigsaude.totvscloud.com.br^
+@@||portal.totvscloud.com.br^
+@@||erp.empresa.com.br^
+@@||monitoramento.empresa.com^
 @@||cemigsaude.org.br^
+
 
 
 
