@@ -1,1 +1,3 @@
 ||ilovepdf.com^
+||api.ilovepdf.com^
+||ilovepdf.io^
