@@ -32,14 +32,26 @@
 ||tiktok.com^
 ||tiktokcdn.com^
 ||tiktokv.com^
-||akamaized.net^$domain=tiktok.com
-||ibytedtos.com^
-||byteoversea.com^
-||musical.ly^
-||bytedance.com^
-||p16-pu-sign-no.tiktokcdn-eu.com.edgesuite.net^
 ||tiktokcdn-eu.com^
+||tiktokcdn-us.com^
+||musical.ly^
+||byteoversea.com^
+||bytedance.com^
+||ibyteimg.com^
+||ibytedtos.com^
+||byteimg.com^
+||bytefcdn.com^
+||snssdk.com^
+||amemv.com^
+||isnssdk.com^
+||lf1-ttcdn-tos.pstatp.com^
+||lf16-ttcdn-tos.pstatp.com^
+||lf3-ttcdn-tos.pstatp.com^
+||lf6-ttcdn-tos.pstatp.com^
+||akamaized.net^$domain=tiktok.com
+||p16-pu-sign-no.tiktokcdn-eu.com.edgesuite.net^
 ||edgesuite.net^
+
 
 ! Pinterest
 ||pinterest.com^
@@ -111,6 +123,7 @@
 
 ! onlyfans
 ||onlyfans.com^
+
 
 
 
