@@ -16,6 +16,8 @@
 @@||cemigsaude.org.br^
 @@||apsfacil.com.br^
 @@||mercadolivre.com.br^
+@@||events.mercadolibre.com^
+
 
 
 
