@@ -16,6 +16,15 @@
 @@||cemigsaude.org.br^
 @@||apsfacil.com.br^
 @@||mercadolivre.com.br^
+@@||mercadolivre.com^
+@@||mercadopago.com^
+@@||mercadopago.com.br^
+@@||mlstatic.com^
+@@||mercadolibre.com^
+@@||mercadolibre.com.br^
+@@||mcdn.com^
+@@||meliuz.com^
+
 
 
 
