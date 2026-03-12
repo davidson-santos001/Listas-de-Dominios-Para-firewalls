@@ -1,4 +1,5 @@
 @@||cloudflare-captcha.net^
+@@||chat.doutoragora.com.br^
 @@||pub-0283a82fbb6a43ba978d5d6c066a92ae.r2.dev^
 @@||valeindigenas.doutoragora.com.br^
 @@||sistemas.local:8085/doutoragora^
@@ -22,6 +23,7 @@
 @@||mercadolibre.com.br^
 @@||mcdn.com^
 @@||meliuz.com^
+
 
 
 
