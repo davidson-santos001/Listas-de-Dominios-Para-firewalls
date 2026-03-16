@@ -1,8 +1,6 @@
 ! ===============================
 ! Lista Corporativa - Redes Sociais
 ! ===============================
-! Facebook
-||facebook.com^
 
 ! Messenger
 ||messenger.com^
