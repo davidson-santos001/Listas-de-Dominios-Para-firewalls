@@ -43,7 +43,7 @@
 ||lf3-ttcdn-tos.pstatp.com^
 ||lf6-ttcdn-tos.pstatp.com^
 ||p16-pu-sign-no.tiktokcdn-eu.com.edgesuite.net^
-||edgesuite.net^
+
 
 
 ! Pinterest
