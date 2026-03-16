@@ -1,11 +1,7 @@
-@@||clickbus.com.br^
 @@||chat.doutoragora.com.br^
 @@||pub-0283a82fbb6a43ba978d5d6c066a92ae.r2.dev^
 @@||valeindigenas.doutoragora.com.br^
 @@||sistemas.local:8085/doutoragora^
-@@||fast.com^
-@@||api.fast.com^
-@@||fastly.net^
 @@||sistemas.local/doutoragora^
 @@||cic.doutoragora.com.br^
 @@||cemigsaude.totvscloud.com.br^
@@ -14,15 +10,7 @@
 @@||monitoramento.empresa.com^
 @@||cemigsaude.org.br^
 @@||apsfacil.com.br^
-@@||mercadolivre.com.br^
-@@||mercadolivre.com^
-@@||mercadopago.com^
-@@||mercadopago.com.br^
-@@||mlstatic.com^
-@@||mercadolibre.com^
-@@||mercadolibre.com.br^
-@@||mcdn.com^
-@@||meliuz.com^
+
 
 
 
