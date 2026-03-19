@@ -107,9 +107,6 @@
 ||gotinder.com^
 
 ! Kwai
-||kwai.com^
-||kwai.net^
-||kwaicdn.com^
 ||m.kwai.com^
 ||s.kwai.com^
 ||api.kwai.com^
@@ -118,6 +115,22 @@
 ||static.kwai.com^
 ||az2-api-akpro.kwai-pro.com^
 ||az1-api-akpro.kwai-pro.com^
+||kwai.com^
+||kwai.net^
+||kwaicdn.com^
+||kwaiapi.com^
+||kwaiads.com^
+||kwaiimg.com^
+||kimg.com^
+||yximgs.com^
+||gifshow.com^
+||gifshowapp.com^
+||gifshowcdn.com^
+||ksapisrv.com^
+||ks-cdn.com^
+||ksyuncdn.com^
+||kuaishou.com^
+||kuaishoucdn.com^
 
 ! onlyfans
 ||onlyfans.com^
