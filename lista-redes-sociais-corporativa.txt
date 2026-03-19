@@ -131,6 +131,7 @@
 ||ksyuncdn.com^
 ||kuaishou.com^
 ||kuaishoucdn.com^
+/kwai/
 
 ! onlyfans
 ||onlyfans.com^
