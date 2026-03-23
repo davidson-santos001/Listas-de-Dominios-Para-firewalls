@@ -69,19 +69,6 @@
 ||threads.net^
 ||threads.com^
 
-! Telegram
-||telegram.org^
-||t.me^
-||telegram.me^
-||tdesktop.com^
-||telegra.ph^
-||telegram-cdn.org^
-||telegramusercontent.com^
-||cdn-telegram.org^
-||cdn4.telegram-cdn.org^
-||cdn5.telegram-cdn.org^
-||api.telegram.org^
-||core.telegram.org^
 
 ! Discord
 ||discord.com^
