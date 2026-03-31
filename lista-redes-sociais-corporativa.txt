@@ -87,31 +87,40 @@
 ||gotinder.com^
 
 ! Kwai
-||m.kwai.com^
-||s.kwai.com^
-||api.kwai.com^
+
+/kwai/
 ||ads.kwai.com^
-||live.kwai.com^
-||static.kwai.com^
-||az2-api-akpro.kwai-pro.com^
+||api.kwai.com^
 ||az1-api-akpro.kwai-pro.com^
-||kwai.com^
-||kwai.net^
-||kwaicdn.com^
-||kwaiapi.com^
-||kwaiads.com^
-||kwaiimg.com^
-||kimg.com^
-||yximgs.com^
+||az1-apil2-akpro.kwaipros.com^
+||az1-apil2-txpro.kwai-pro.com^
+||az2-api-akpro.kwai-pro.com^
+||az2-apil2-kixpro.kwai-pro.com^
+||az3-api-akpro.kwai-pro.com^
+||az3-apil2-txpro.kwai-pro.com^
 ||gifshow.com^
 ||gifshowapp.com^
 ||gifshowcdn.com^
-||ksapisrv.com^
+||k-api.kwai-pro.com^
+||k-apil2.kwaipros.com^
+||kimg.com^
 ||ks-cdn.com^
+||ksapisrv.com^
 ||ksyuncdn.com^
 ||kuaishou.com^
 ||kuaishoucdn.com^
-/kwai/
+||kwai.com^
+||kwai.net^
+||kwaiads.com^
+||kwaiapi.com^
+||kwaicdn.com^
+||kwaiimg.com^
+||live.kwai.com^
+||m.kwai.com^
+||s.kwai.com^
+||static.kwai.com^
+||yximgs.com^
+||zt-live.kwai-pro.com^
 
 ! onlyfans
 ||onlyfans.com^
