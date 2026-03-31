@@ -4,6 +4,7 @@
 @@||valeindigenas.doutoragora.com.br^
 @@||sistemas.local:8085/doutoragora^
 @@||sistemas.local/doutoragora^
+@@||sistemas.local^
 @@||cic.doutoragora.com.br^
 @@||cemigsaude.totvscloud.com.br^
 @@||portal.totvscloud.com.br^
