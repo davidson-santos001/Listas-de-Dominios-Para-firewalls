@@ -26,7 +26,13 @@
 @@||uol.com.br^
 @@||meupainelhost.uol.com.br^
 @@||pro.contaazul.com^
-
+@@||teams.microsoft.com^
+@@||*.teams.microsoft.com^
+@@||*.skype.com^
+@@||*.lync.com^
+@@||*.trafficmanager.net^
+@@||*.azureedge.net^
+@@||*.cloudapp.net^
 ! Facebook
 @@||developers.facebook.com^
 
