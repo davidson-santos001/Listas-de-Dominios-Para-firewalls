@@ -33,6 +33,7 @@
 @@||*.trafficmanager.net^
 @@||*.azureedge.net^
 @@||*.cloudapp.net^
+@@||portal.cfm.org.br^
 ! Facebook
 @@||developers.facebook.com^
 
