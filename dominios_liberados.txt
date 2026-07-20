@@ -34,10 +34,13 @@
 @@||*.azureedge.net^
 @@||*.cloudapp.net^
 @@||portal.cfm.org.br^
+@@||dracic.saudeagora.com.vc^
+@@||*.dracic.saudeagora.com.vc^
+@@||*.dracic.saudeagora.com.*^
 ! Facebook
 @@||developers.facebook.com^
 @@||clinicasexpressas.maisvoipdiscador.com.br:8077^
-@@||dracic.saudeagora.com.vc^
+
 
 
 
