@@ -38,6 +38,8 @@
 @@||dracic.saudeagora.com.vc^
 @@||*.dracic.saudeagora.com.vc^
 @@||*.dracic.saudeagora.com.*^
+@@||dracic.saudeagora.com.vc/saude-agora-vita/rest^
+@@||*.dracic.saudeagora.com.vc/saude-agora-vita/rest^
 ! Facebook
 @@||developers.facebook.com^
 @@||clinicasexpressas.maisvoipdiscador.com.br:8077^
