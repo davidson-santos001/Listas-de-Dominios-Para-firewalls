@@ -34,6 +34,7 @@
 @@||*.azureedge.net^
 @@||*.cloudapp.net^
 @@||portal.cfm.org.br^
+@@||dracic.saudeagora.com^
 @@||dracic.saudeagora.com.vc^
 @@||*.dracic.saudeagora.com.vc^
 @@||*.dracic.saudeagora.com.*^
