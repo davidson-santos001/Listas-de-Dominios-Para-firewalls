@@ -40,7 +40,9 @@
 @@||*.dracic.saudeagora.com.*^
 @@||dracic.saudeagora.com.vc/saude-agora-vita/rest^
 @@||*.dracic.saudeagora.com.vc/saude-agora-vita/rest^
-@@||dracic.saudeagora.com.vc/saude-agora-vita/rest/amazon_hash/https%3A%2F%2Fs3-sa-east-1.amazonaws.com%2Fsaude-agora-enterprise-dracic%2Ffroala%2F1778850332119-logo.jpg^
+@@||*.portal.blip.ai^
+@@||portal.blip.ai.*^
+@@||portal.blip.ai^
 ! Facebook
 @@||developers.facebook.com^
 @@||clinicasexpressas.maisvoipdiscador.com.br:8077^
