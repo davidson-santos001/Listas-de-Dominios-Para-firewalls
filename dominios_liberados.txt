@@ -44,6 +44,7 @@
 @@||portal.blip.ai.*^
 @@||portal.blip.ai^
 @@||portal.blip.ai/router^
+@@||voeazul.com.br^
 ! Facebook
 @@||developers.facebook.com^
 @@||clinicasexpressas.maisvoipdiscador.com.br:8077^
