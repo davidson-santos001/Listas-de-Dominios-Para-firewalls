@@ -53,7 +53,7 @@
 @@||cemigsaude.totvscloud.*^
 @@||cemigsaude.*^
 @@||valep.lms.hr.cloud.sap/learning/user/portal.do?siteID=VES%5fFOR%5fCONTRACTORS&landingPage=login^
-
+@@||http://wordwall.net/pt^
 ! Facebook
 @@||developers.facebook.com^
 @@||clinicasexpressas.maisvoipdiscador.com.br:8077^
