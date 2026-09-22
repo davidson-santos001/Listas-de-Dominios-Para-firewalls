@@ -55,6 +55,7 @@
 @@||valep.lms.hr.cloud.sap/learning/user/portal.do?siteID=VES%5fFOR%5fCONTRACTORS&landingPage=login^
 @@||wordwall.net.*^
 @@||*.wordwall.net^
+@@||wordwall^
 ! Facebook
 @@||developers.facebook.com^
 @@||clinicasexpressas.maisvoipdiscador.com.br:8077^
