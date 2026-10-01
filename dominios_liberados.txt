@@ -56,6 +56,9 @@
 @@||wordwall.net.*^
 @@||*.wordwall.net^
 @@||wordwall^
+@@||*.nfse.gov.br^
+@@||nfse.gov.br^
+@@||*.nfse.*^
 ! Facebook
 @@||developers.facebook.com^
 @@||clinicasexpressas.maisvoipdiscador.com.br:8077^
