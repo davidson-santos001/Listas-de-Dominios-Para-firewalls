@@ -56,11 +56,6 @@
 ||p16-pu-sign-no.tiktokcdn-eu.com.edgesuite.net^
 
 
-
-! Pinterest
-||pinterest.com^
-||pinimg.com^
-
 ! Tumblr
 ||tumblr.com^
 
