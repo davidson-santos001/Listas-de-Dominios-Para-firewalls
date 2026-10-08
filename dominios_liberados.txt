@@ -56,6 +56,8 @@
 @@||wordwall.net.*^
 @@||*.wordwall.net^
 @@||wordwall^
+@@||app.cdn.wordwall.net^
+@@||themes.cdn.wordwall.net^
 @@||*.nfse.gov.br^
 @@||nfse.gov.br^
 @@||*.nfse.*^
