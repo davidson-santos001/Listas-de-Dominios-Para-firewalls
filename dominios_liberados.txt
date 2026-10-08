@@ -53,11 +53,11 @@
 @@||cemigsaude.totvscloud.*^
 @@||cemigsaude.*^
 @@||valep.lms.hr.cloud.sap/learning/user/portal.do?siteID=VES%5fFOR%5fCONTRACTORS&landingPage=login^
-@@||wordwall.net.*^
-@@||*.wordwall.net^
-@@||wordwall^
-@@||app.cdn.wordwall.net^
-@@||themes.cdn.wordwall.net^
+@@||wordwall.net.*^$important
+@@||*.wordwall.net^$important
+@@||wordwall^$important
+@@||app.cdn.wordwall.net^$important
+@@||themes.cdn.wordwall.net^$important
 @@||*.nfse.gov.br^
 @@||nfse.gov.br^
 @@||*.nfse.*^
